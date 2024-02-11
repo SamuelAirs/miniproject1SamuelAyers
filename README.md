@@ -15,25 +15,7 @@ This project will be using the packages NumPy and Matplotlib in order to create 
 
 ### PIP install instructions
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-* List pip install instructions.
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-## Acknowledgements
-
-*
+* pip install -r requirements.txt
 
 
 
