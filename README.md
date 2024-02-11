@@ -13,7 +13,7 @@ This project will be using the packages NumPy and Matplotlib in order to create 
 
 ## Getting Started
 
-### Dependencies
+### PIP install instructions
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
@@ -31,27 +31,10 @@ This project will be using the packages NumPy and Matplotlib in order to create 
 ```
 code blocks for commands
 ```
+## Acknowledgements
 
-## Help
+*
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
-## Authors
-
-Samuel Ayers
-
-## Version History
-
-* 0.1
-    * Initial Release
-
-## License
-
-This project is not licensed
-
-## Acknowledgments
 
 
