@@ -5,7 +5,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import yfinance as yf
-import copy
+from pathlib import Path
+
 
 def getClosing(ticker):
     stock = yf.Ticker(ticker)
@@ -17,6 +18,9 @@ def getClosing(ticker):
         closingList.append(price)
 
     return closingList
+
+#create our charts folder
+Path("charts").mkdir()
 
 stocks = ["MSFT","AMZN","TSLA","AMD","AAPL"]
 
