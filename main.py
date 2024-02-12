@@ -42,5 +42,8 @@ for stock in stocks:
     plt.title("Closing Price for " + stock)
 
     #shows the graph
-    plt.show()
 
+    savefile = "charts/" + stock + ".png"
+    plt.savefig(savefile)
+
+    plt.show()
