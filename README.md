@@ -17,6 +17,9 @@ This project will be using the packages NumPy and Matplotlib in order to create 
 
 * pip install -r requirements.txt
 
+### How to run
+* python main.py
+
 
 
 
