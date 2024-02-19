@@ -20,7 +20,10 @@ def getClosing(ticker):
     return closingList
 
 #create our charts folder
-Path("charts").mkdir()
+try:
+    Path("charts").mkdir()
+except FileExistsError:
+    pass
 
 stocks = ["MSFT","AMZN","TSLA","AMD","AAPL"]
 
