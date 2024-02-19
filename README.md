@@ -24,7 +24,7 @@ This project will be using the packages NumPy and Matplotlib in order to create 
 Samuel Ayers
 
 ## Version History
-*0.1
+* 0.1
 ** Initial Release
 
 
