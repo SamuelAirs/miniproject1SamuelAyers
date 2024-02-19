@@ -19,6 +19,13 @@ This project will be using the packages NumPy and Matplotlib in order to create 
 
 ### How to run
 * python main.py
+  
+## Authors
+Samuel Ayers
+
+## Version History
+*0.1
+** Initial Release
 
 
 
